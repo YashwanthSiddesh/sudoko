@@ -1,5 +1,5 @@
 import java.util.*;
-public class KyaKRuBhai {
+public class Sudoko {
     public static int a[][]=new int[9][9];
     public static boolean c(int i,int j,int n){
         for(int r=0;r<9;++r)
